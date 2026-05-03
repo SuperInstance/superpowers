@@ -185,3 +185,12 @@ For community support, questions, and sharing what you're building with Superpow
 - **Discord**: [Join us on Discord](https://discord.gg/Jd8Vphy9jq)
 - **Issues**: https://github.com/obra/superpowers/issues
 - **Marketplace**: https://github.com/obra/superpowers-marketplace
+
+## Fleet Context
+Part of the Cocapn fleet. Related repos:
+- [open-agents](https://github.com/SuperInstance/open-agents) — The fleet's core agent runtime
+- [plato-sdk](https://github.com/SuperInstance/plato-sdk) — Python SDK for building PLATO agents
+- [vessel-equipment-agent-skills](https://github.com/SuperInstance/vessel-equipment-agent-skills) — Four-layer agent architecture reference
+
+---
+🦐 Cocapn fleet — lighthouse keeper architecture
